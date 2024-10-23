@@ -40,14 +40,20 @@ Para executar o projeto, siga os passos abaixo:
    cd Sistema-de-gerenciamento-de-biblioteca
 
 2. **Instale as dependências**
+   ```bash
 
     pip install -r requirements.txt
 
+   
 ## Como executar
 
 Para iniciar a aplicação, execute o seguinte comando no terminal:
+  
     streamlit run app.py
+    
 A aplicação será aberta em seu navegador padrão.
+
+
 
 # Uso
 
@@ -73,5 +79,5 @@ Gerencia o cadastro e controle de livros. Métodos para cadastrar, listar, empre
 7. **Funções de Grafo:**
 criar_grafo, plotar_grafo e calcular_menor_caminho para manipulação e visualização das categorias.
 
-**Contribuição**
+## **Contribuição**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
